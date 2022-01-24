@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\ShaderReflectionTest\x64\Debug\ShaderReflectionTest.exe
+C:\Users\admin\source\repos\ShaderReflectionTest\x64\Debug\ShaderReflectionTest.pdb

@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\admin\source\repos\ShaderReflectionTest\main.cpp(118,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\admin\source\repos\ShaderReflectionTest\main.cpp(281,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\admin\source\repos\ShaderReflectionTest\main.cpp(289,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\admin\source\repos\ShaderReflectionTest\main.cpp(451,23): warning C4018: “<”: 有符号/无符号不匹配
+  ShaderReflectionTest.vcxproj -> C:\Users\admin\source\repos\ShaderReflectionTest\x64\Debug\ShaderReflectionTest.exe
